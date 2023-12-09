@@ -45,7 +45,11 @@ body p {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
+<<<<<<< HEAD
     min-width: 15%;
+=======
+    min-width: 90px;
+>>>>>>> a7b7c80f834f0b70ecece9ef6702fe2ab6f78c16
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 .dropdown:hover .dropdown-content {
